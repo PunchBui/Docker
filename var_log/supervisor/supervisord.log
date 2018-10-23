@@ -1,0 +1,28 @@
+2018-10-23 15:56:27,139 CRIT Supervisor running as root (no user in config file)
+2018-10-23 15:56:27,140 WARN Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-10-23 15:56:27,174 INFO RPC interface 'supervisor' initialized
+2018-10-23 15:56:27,175 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-10-23 15:56:27,176 INFO supervisord started with pid 583
+2018-10-23 15:56:28,186 INFO spawned: 'sshd' with pid 586
+2018-10-23 15:56:29,190 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-10-23 15:58:48,736 CRIT Supervisor running as root (no user in config file)
+2018-10-23 15:58:48,737 WARN Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-10-23 15:58:48,767 INFO RPC interface 'supervisor' initialized
+2018-10-23 15:58:48,768 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-10-23 15:58:48,770 INFO supervisord started with pid 516
+2018-10-23 15:58:49,777 INFO spawned: 'sshd' with pid 519
+2018-10-23 15:58:51,750 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-10-23 16:17:50,687 CRIT Supervisor running as root (no user in config file)
+2018-10-23 16:17:50,688 WARN Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-10-23 16:17:51,020 INFO RPC interface 'supervisor' initialized
+2018-10-23 16:17:51,022 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-10-23 16:17:51,023 INFO supervisord started with pid 516
+2018-10-23 16:17:52,032 INFO spawned: 'sshd' with pid 519
+2018-10-23 16:17:53,034 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-10-23 16:36:03,978 CRIT Supervisor running as root (no user in config file)
+2018-10-23 16:36:03,980 WARN Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-10-23 16:36:04,025 INFO RPC interface 'supervisor' initialized
+2018-10-23 16:36:04,026 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-10-23 16:36:04,027 INFO supervisord started with pid 516
+2018-10-23 16:36:05,034 INFO spawned: 'sshd' with pid 519
+2018-10-23 16:36:06,036 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
